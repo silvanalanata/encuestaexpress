@@ -1,0 +1,16 @@
+.formulario{
+    display:flex;
+    flex-direction: column;
+    border: 4px solid grey;
+    width: 500px;
+    height: 300px;
+    margin-left: 400px;
+    margin-top: 200px;
+}
+
+.form{
+    margin-top: 10px;
+}
+button{
+    width: 100px;
+}
